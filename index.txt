@@ -1,0 +1,4 @@
+int x  = 10 
+int y = 30
+int z = x + y 
+print("la suma es: " + z)
